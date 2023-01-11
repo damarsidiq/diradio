@@ -5,8 +5,7 @@ version update as of v1.1:
 - record radio stream - saved under folder /uploads/diradio/records/
 
 
-Download latest at:
-https://www.pxpedia.blogspot.com
+Download latest at: https://www.pxpedia.blogspot.com (featuring the latest regista with an easy to use app installer).
 
 
 requires: 
